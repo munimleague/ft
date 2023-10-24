@@ -1,0 +1,66 @@
+body{
+    background-color: #fff;
+}
+aside{
+    float: left;
+    background-color: #fff;
+    width: 20%;
+    padding: 2.5%;
+    height: 100vh;
+    color: #000;
+    border-right: 5px solid #4d4d4d;
+}
+aside img{
+    width: 100px;
+    float: left;
+}
+aside .logg{
+    font-size: 28px;
+    margin-left: 10px;
+    font-weight: bold;
+    position: relative;
+    top: 10px;
+}
+aside h2{
+    margin-top: 50px;
+    font-size: 25px;
+}
+aside p a{
+    color: #000;
+    display: block;
+    margin-top: 20px;
+    transition: transform 0.6s ease;
+    text-decoration: none;
+}
+aside p a:hover{
+    color: #4d4d4d;
+    transform: scale(1.05);
+}
+
+
+main table{
+    text-align: center;
+    position: relative;
+    left: 31.5%;
+    top: 30px;
+}
+
+table, th, td {
+    border: 2px solid #4d4d4d;
+    border-collapse: collapse;
+    padding: 4.5px 23px;
+  }
+
+main .sec3{
+    float: left;
+    color: black;
+    margin-top: 70px;
+    text-align: center;
+    width: 75%;
+    margin-left: 20px;
+}
+main h1{font-size: 50px;}
+
+main h2{
+    margin-top: 75px;
+}
